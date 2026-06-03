@@ -23,6 +23,9 @@ s5_05_revert_vs_reset.py
 **동일한 출발점의 저장소 2개** (revert-demo, reset-demo) 를 자동으로 만들어 둔다.
 학습자가 각 폴더에서 한 가지씩 실행해 보고, 마지막에 git log 두 결과를 나란히 비교한다.
 """
+
+# remote change
+
 import sys
 from pathlib import Path
 
